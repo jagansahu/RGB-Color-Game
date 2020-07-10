@@ -3,7 +3,7 @@
 A simple RGB Colour game to improve your RGB identification skills! 
 Every colour on the screen can be represented using an RGB colour (Red, Green, Blue) code. 
 
-For instance the RGB colour for:
+For instance the RGB colour for:\
 Red is (255,0,0)\
 Green is (0,255,0)\
 Blue is (0,0,255)\
