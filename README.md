@@ -8,7 +8,7 @@ Red is (255,0,0)\
 Green is (0,255,0)\
 Blue is (0,0,255)\
 Yellow is (255,255,0)\
-Orange is (255,165,0)\
+Orange is (255,165,0)
 
 Using the RGB colour code we can identify 2^24 colours: that’s 16,777,216 unique colours!
 
